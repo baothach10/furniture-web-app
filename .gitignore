@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Data
+/Furniture_Data
+
+# Machine Learning Mode
+/models
